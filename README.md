@@ -1,2 +1,2 @@
-# Web-calculator
+# WEB-CALCULATOR
 is e web calculator to allwo the user to makes complex calculation without failures.
